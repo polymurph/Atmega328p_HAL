@@ -6,3 +6,12 @@ The emphasis of this library is to enable fast and efficiant peripheral configur
 ## HAL Structure
 
 
+## Examples
+```c
+
+while(1)
+{
+  foo();
+}
+```
+
